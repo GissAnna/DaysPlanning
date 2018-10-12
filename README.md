@@ -7,6 +7,10 @@
 **Оратор:** *Микуляк Дмитро*<br />
 
 ---
+### Перше зібрання
+Гості та учаскики С++/Qt Roadmap можуть взяти свої ноутбуки для того, щоб розпочати роботу прямо на зібранні. Заздалегідь просимо завантажити інсталяційні пакети або встановити.
+
+---
 
 # План
 *  [Суперконсоль - альтернативним спосіб консолі із додатковими можливостями](https://pllug-community.gitbook.io/pllug-c-qt-roadmap-book/naivazhlivishii-rozdil-u-cii-knizhci/bazova-robota-z-git-ta-stvorennya-vlasnogo-repozitoriyu/robota-z-git-ta-komandnim-ryadkom)
